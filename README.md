@@ -1,2 +1,2 @@
-# tutorial
-this is a follow along for a tutorial
+# Tutorial
+this isn't working as well as the tutorial
